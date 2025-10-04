@@ -1,4 +1,4 @@
-Lesson 01. [28-Sep-2025
+Date: 28-Sep-2025
 I can = ich kann (eesh kahn)
 I can speak = ich kann sprechen (eesh kahn spre-khen)
 begin = beginnen (begin-nen)
@@ -24,7 +24,7 @@ I cannot come = ich kann nicht kommen (eesh kahn nisht kho-men)
 but = aber (aa-baa)
 but I cannot come = aber ich kann nicht kommen (aa-baa eesh kahn nisht kho-men)
 
-Lesson 02.[29-Sep-2025]
+Date: 29-Sep-2025
 She can camp but I cannot come = sie kann campen aber ich kann nicht kommen (zee kahn camp-en aa-baa eesh kahn nisht kho-men)
 I can come = ich kann kommen (eesh kahn kho-men)
 I can come but I cannot park = ich kann kommen aber ich kann nicht parken (eesh kahn kho-men aa-baa eesh kahn nisht park-en)
@@ -82,7 +82,7 @@ to dance here = hier tanzen (hee-er tanzen)
 I would like to dance here = ich möchte hier tanzen (eesh mo-sh-tu hee-er tanzen)
 She would not like to dance here = sie möchte nicht hier tanzen (zee mo-sh-tu nisht hee-er tanzen)
 
-Lesson 03. [30-Sep-2025]
+Date: 30-Sep-2025
 It = es (es)
 She would like it = sie möchte es (zee mo-sh-tu es)
 I would like it = ich möchte es (eesh mo-sh-tu es)
@@ -92,7 +92,7 @@ to drink it = es trinken (es thrink-en) [thri should be pronounced as you would 
 she would like to drink it = sie möchte es trinken (zee mo-sh-tu es thrink-en)
 I would like to drink it = ich möchte es trinken (eesh mo-sh-tu es thrink-en)
 
-Lesson 03. [03-Oct-2025]
+Date: 03-Oct-2025
 I would not like to drink it = ich möchte es nicht trinken (eesh mo-sh-tu es nisht thrink-en)
 She would not like to drink it = sie möchte es nicht trinken (zee mo-sh-tu es nisht thrink-en)
 She can drink it = sie kann es trinken (zee kahn es thrink-en)
@@ -118,7 +118,7 @@ She cannot do it = sie kann es nicht tun (zee kahn es nisht toon)
 I can do it but she cannot do it = ich kann es tun aber sie kann es nicht tun (eesh kahn es toon aa-baa zee kahn es nisht toon)
 She can camp here but I wouldn't like to do it = sie kann hier campen aber ich möchte es nicht tun (zee kahn hee-er camp-en aa-baa eesh mo-sh-tu es nisht toon)
 
-Lesson 04. [03-Oct-2025]
+Date: 03-Oct-2025
 romantic = romantisch (oman-tish)
 fantastic = fantastisch (fantas-tish)
 exotic = exotisch (exo-tish)
@@ -128,13 +128,13 @@ it is exotic = es ist exotisch (es is exo-tish)
 it is romantic = es ist romantisch (es is oman-tish)
 it is fantastic = es ist fantastisch (es is fantas-tish)
 it is dramatic = es ist dramatisch (es is tra-ma-tish)
-democratic = demokratisch (demo-kar-tish)
-it is democratic = es ist demokratisch (es ist demo-kar-tish)
+democratic = demokratisch (demo-kaa-tish)
+it is democratic = es ist demokratisch (es ist demo-kaa-tish)
 problematic = problematisch (pro-blame-ma-tish)
 it is problematic = es ist problematisch (es ist pro-blame-ma-tish)
 it is not = es ist nicht (es ist nisht)
 it isn't problematic = es ist nicht problematisch (es ist nisht pro-blame-ma-tish)
-it isn't democratic = es ist nicht demokratisch (es ist nisht demo-kar-tish)
+it isn't democratic = es ist nicht demokratisch (es ist nisht demo-kaa-tish)
 it isn't exotic = es ist nicht exotisch (es is nisht exo-tish)
 it isn't romantic = es ist nicht romantisch (es ist nisht oman-tish)
 it isn't fantastic = es ist nicht fantastisch (es is nisht fantas-tish)
@@ -149,4 +149,31 @@ it isn't practical = es ist nicht praktish (es ist nisht prak-tish)
 it isn't practical but it is political = es ist nicht praktisch aber es ist politisch (es ist nisht prak-tish aa-baa es ist po-li-tish)
 because = denn (den)
 because it is not practical = denn es ist nicht praktisch (denn es ist nisht prak-tish)
-I cannot do it because it is not practical = ich kann es nicht tun denn es ist nicht praktisch (ich kann es nisht toon denn es ist nisht prak-tish)
+I cannot do it because it is not practical = ich kann es nicht tun denn es ist nicht praktisch (ich khan es nisht toon denn es ist nisht prak-tish)
+
+Date: 04-Oct-2025
+She can't do it because it's not practical = sie kann es nicht tun denn es ist nicht praktisch (zee khan es nisht toon denn es ist nisht prak-tish)
+because it is romantic = denn es ist romantisch (denn es ist oman-tish)
+I would like to do it because it is romantic = ich möchte es tun denn es ist romantisch (ich mo-sh-tu es toon denn es ist oman-tish)
+I would like to camp here because it is romantic = ich möchte hier campen denn es ist romantisch (ich mo-sh-tu hee-er camp-en denn es ist oman-tish)
+She wouldn't like to camp here because its not romantic = sie möchte es nicht tun denn es ist nicht romantisch (zee mo-sh-tu es nisht toon denn es ist nisht oman-tish)
+but it's not political = denn es ist nicht politisch (denn es ist nisht po-li-tish)
+She would like to camp here because its romantic but its not practical = sie möchte hier campen denn es ist romantisch aber es ist nicht praktisch (zee mo-sh-tu hee-er camp-en denn es ist oman-tish aa-baa es ist nisht prak-tish)
+I would like to bring it = ich möchte es bringen (ich mo-sh-tu es bring-en)
+Park here? I would like to do it = hier parken? Ich möchte es tun (Park hee-er? Ich mo-sh-tu es toon)
+very = sehr (sehr)
+I would like to do it very much = ich möchte es sehr tun (ich mo-sh-tu es sehr toon)
+today = heute (hoi-tuh)
+I would like it today = ich möchte es heute (ich mo-sh-tu es hoi-tuh)
+I would like to bring it today = ich möchte es heute bringen (ich mo-sh-tu es hoi-tuh bring-en)
+I would like to do it today = ich möchte es heute tun (ich mo-sh-tu es hoi-tuh toon)
+I would like to bring it today = ich möchte es heute bringen (ich mo-sh-tu es hoi-tuh bring-en)
+she would like to bring it today = sie möchte es heute bringen (zee mo-sh-tu es hoi-tuh bring-en)
+she would like to begin today = sie möchte es heute beginnen (zee mo-sh-tu es hoi-tuh begin-nen)
+she can begin it today = sie kann es heute beginnen (zee kahn es hoi-tuh begin-nen)
+I can begin it today = ich kann es heute beginnen (ich kahn es hoi-tuh begin-nen)
+can I = kann ich (kahn eesh)
+can I bring it = kann ich es bringen (kahn eesh es bring-en)
+can I bring it today ? = kann ich es heute bringen ? (kahn eesh es hoi-tuh bring-en)
+I can't begin today = ich kann es nicht heute beginnen (ich kahn es nisht hoi-tuh begin-nen)
+She wouldn't like to bring it today = sie möchte es nicht heute bringen (zee mo-sh-tu es nisht hoi-tuh bring-en)
